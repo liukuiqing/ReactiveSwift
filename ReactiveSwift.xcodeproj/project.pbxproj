@@ -68,6 +68,7 @@
 		9A1D067D1D948A2300ACF44C /* UnidirectionalBindingSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1D067C1D948A2200ACF44C /* UnidirectionalBindingSpec.swift */; };
 		9A1D067E1D948A2300ACF44C /* UnidirectionalBindingSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1D067C1D948A2200ACF44C /* UnidirectionalBindingSpec.swift */; };
 		9A1D067F1D948A2300ACF44C /* UnidirectionalBindingSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1D067C1D948A2200ACF44C /* UnidirectionalBindingSpec.swift */; };
+		9A400A1F1F1BB8690018A45D /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A400A1E1F1BB8690018A45D /* Test.swift */; };
 		9A5D93731EE5733300438925 /* InhabitableTypeGuards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5D93721EE5733300438925 /* InhabitableTypeGuards.swift */; };
 		9A5D93741EE5733300438925 /* InhabitableTypeGuards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5D93721EE5733300438925 /* InhabitableTypeGuards.swift */; };
 		9A5D93751EE5733300438925 /* InhabitableTypeGuards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5D93721EE5733300438925 /* InhabitableTypeGuards.swift */; };
@@ -249,6 +250,7 @@
 		9A090C131DA0309E00EE97CA /* Reactive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reactive.swift; sourceTree = "<group>"; };
 		9A1A4F981E16961C006F3039 /* ValidatingPropertySpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValidatingPropertySpec.swift; sourceTree = "<group>"; };
 		9A1D067C1D948A2200ACF44C /* UnidirectionalBindingSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnidirectionalBindingSpec.swift; sourceTree = "<group>"; };
+		9A400A1E1F1BB8690018A45D /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		9A5D93721EE5733300438925 /* InhabitableTypeGuards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InhabitableTypeGuards.swift; sourceTree = "<group>"; };
 		9A681A9D1E5A241B00B097CF /* DeprecationSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeprecationSpec.swift; sourceTree = "<group>"; };
 		9A9100DE1E0E6E620093E346 /* ValidatingProperty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValidatingProperty.swift; sourceTree = "<group>"; };
@@ -510,6 +512,7 @@
 				9A1A4F981E16961C006F3039 /* ValidatingPropertySpec.swift */,
 				9A681A9D1E5A241B00B097CF /* DeprecationSpec.swift */,
 				D04725FA19E49ED7006002AA /* Supporting Files */,
+				9A400A1E1F1BB8690018A45D /* Test.swift */,
 			);
 			name = ReactiveSwiftTests;
 			path = Tests/ReactiveSwiftTests;
@@ -1007,6 +1010,7 @@
 				D0C3130C19EF2B1F00984962 /* DisposableSpec.swift in Sources */,
 				9A1D067D1D948A2300ACF44C /* UnidirectionalBindingSpec.swift in Sources */,
 				9A1A4F9D1E16AE50006F3039 /* ValidatingPropertySpec.swift in Sources */,
+				9A400A1F1F1BB8690018A45D /* Test.swift in Sources */,
 				D0A2260B1A72E6C500D33B74 /* SignalProducerSpec.swift in Sources */,
 				D8024DB21B2E1BB0005E6B9A /* SignalProducerLiftingSpec.swift in Sources */,
 				4A0AB6721DC28EFF00AA1E81 /* ReactiveExtensionsSpec.swift in Sources */,

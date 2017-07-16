@@ -94,6 +94,11 @@
                BlueprintName = "ReactiveSwift-macOSTests"
                ReferencedContainer = "container:ReactiveSwift.xcodeproj">
             </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "Test">
+               </Test>
+            </SkippedTests>
          </TestableReference>
       </Testables>
       <MacroExpansion>
